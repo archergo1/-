@@ -58,9 +58,11 @@ img{ max-width: 100%;
 }
 
 
-*{
+/* *{
     outline: 1px red solid;
-}
+} */
+
+/* 上面的border用來輔助找整個網頁是否有X軸 */
 
 /* 以下開始 */
 
